@@ -37,4 +37,10 @@ for Image vesrion
 
 **Frontend** : stremlit
 
+## Environment Variables
 
+To run this project, you will need to add the following environment variables to your .env file
+
+`GOOGLE_API_KEY`
+
+You can get it from Makersuite
